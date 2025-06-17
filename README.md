@@ -13,12 +13,14 @@ Este proyecto está bajo la licencia GPL.
 ## MATLAB
 Scripts para cálculos numéricos y problemas matemáticos.
 - **Project_Euler/**: Soluciones a problemas de Project Euler.
-- **Data_and_ML/**: Scripts para análisis de datos y aprendizaje automático.
-
 - **Project_Euler/problema1.m**: Suma de los múltiplos de 3 o 5 menores a 1000 (Problema 1 de Project Euler).
 - **Project_Euler/problema2.m**: Suma de los términos pares de la secuencia de Fibonacci menores a 4,000,000 (Problema 2 de Project Euler).
 - **Project_Euler/problema3.m**: Mayor factor primo de un número dado, como 600851475143 (Problema 3 de Project Euler).
 - **Project_Euler/problema4.m**: Mayor palíndromo producto de dos números de 3 dígitos (Problema 4 de Project Euler).
+
+-  **Data_and_ML/**: Scripts para análisis de datos y aprendizaje automático.
+-  **kNNClasif.m**: Clasificador k-NN para asignar clases (0 o 1) basado en k vecinos más cercanos.
+-  **corazon2.txt**: Conjunto de datos de pacientes con ataques cardíacos (edad, contractilidad, etc.).
 
 ## VBA
 Contiene macros para automatizar tareas en Excel.
