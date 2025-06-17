@@ -12,6 +12,9 @@ Este proyecto está bajo la licencia GPL.
 
 ## MATLAB
 Scripts para cálculos numéricos y problemas matemáticos.
+- **Project_Euler/**: Soluciones a problemas de Project Euler.
+- **Data_and_ML/**: Scripts para análisis de datos y aprendizaje automático.
+
 - **Project_Euler/problema1.m**: Suma de los múltiplos de 3 o 5 menores a 1000 (Problema 1 de Project Euler).
 - **Project_Euler/problema2.m**: Suma de los términos pares de la secuencia de Fibonacci menores a 4,000,000 (Problema 2 de Project Euler).
 - **Project_Euler/problema3.m**: Mayor factor primo de un número dado, como 600851475143 (Problema 3 de Project Euler).
