@@ -22,6 +22,11 @@ Scripts para cálculos numéricos y problemas matemáticos.
 -  **kNNClasif.m**: Clasificador k-NN para asignar clases (0 o 1) basado en k vecinos más cercanos.
 -  **corazon2.txt**: Conjunto de datos de pacientes con ataques cardíacos (edad, contractilidad, etc.).
 
+  ## Python
+Scripts para cálculos y análisis en Python.
+- **Structural_Engineering/**: Scripts relacionados con ingeniería estructural.
+  - **structural_damage_classifier_with_plot.py**: Clasificador de daños en vigas de concreto usando árboles de decisión con visualización.
+
 ## VBA
 Contiene macros para automatizar tareas en Excel.
 - **SolveSudoku.xlsm**: Hoja de Excel con una macro para resolver Sudokus 9x9. Selecciona la celda superior izquierda de la cuadrícula, habilita macros y ejecuta `SolveSudoku`. Las celdas resueltas se colorean en azul.
