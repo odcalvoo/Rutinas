@@ -5,7 +5,11 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score
 import matplotlib.pyplot as plt
 import warnings
-
+#
+#Autor: Oscar Calvo
+# Fecha: Junio 20/2025
+# Licencia: Este archivo está bajo la licencia GPL-3.0. Ver LICENSE en el repositorio.
+#
 # Suprimir warnings de Matplotlib
 warnings.filterwarnings("ignore", category=UserWarning)
 
