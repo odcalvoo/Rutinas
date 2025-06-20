@@ -100,9 +100,9 @@ plt.show()
 # Instrucciones finales
 print("""
 === Fin del programa ===
-Para usar datos reales, reemplace `generate_synthetic_data` con un DataFrame de pandas
+Para usar datos reales, reemplace 'generate_synthetic_data' con un DataFrame de pandas
 conteniendo columnas 'strain', 'vibration', 'load' e 'is_damaged'.
-Instale las bibliotecas con: `pip install numpy pandas scikit-learn matplotlib`
-Guarde este archivo en su repositorio de GitHub y ejecute con Python 3.
+Instale las bibliotecas con: 'pip install numpy pandas scikit-learn matplotlib'
+Ejecute con Python 3.
 La gráfica muestra las vigas de prueba clasificadas por estado.
 """)
