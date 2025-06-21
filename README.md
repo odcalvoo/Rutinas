@@ -17,7 +17,7 @@ Scripts para cálculos numéricos y problemas matemáticos.
 - **Project_Euler/prb002.m**: Suma de los términos pares de la secuencia de Fibonacci menores a 4,000,000 (Problema 2 de Project Euler).
 - **Project_Euler/prb003.m**: Mayor factor primo de un número dado, como 600851475143 (Problema 3 de Project Euler).
 - **Project_Euler/prb004.m**: Mayor palíndromo producto de dos números de 3 dígitos (Problema 4 de Project Euler).
-- **Project_Euler/prb005.m**: Menor número divisible por todos los enteros del 1 al 20.
+- **Project_Euler/prb005.m**: Menor número divisible por todos los enteros del 1 al 20 (Problema 5 de Project Euler).
 
 -  **Data_and_ML/**: Scripts para análisis de datos y aprendizaje automático.
 -  **kNNClasif.m**: Clasificador k-NN para asignar clases (0 o 1) basado en k vecinos más cercanos.
