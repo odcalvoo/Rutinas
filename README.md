@@ -26,7 +26,7 @@ Scripts para cálculos numéricos y problemas matemáticos.
   ## Python
 Scripts para cálculos y análisis en Python.
 - **Structural_Engineering/**: Scripts relacionados con ingeniería estructural.
-  - **structural_damage_classifier_with_plot.py**: Clasificador de daños en vigas de concreto usando árboles de decisión con visualización.
+  - **structural_damage_classifier_with_plot2.py**: Clasificador de daños en vigas de concreto usando árboles de decisión con visualización.
 
 ## VBA
 Contiene macros para automatizar tareas en Excel.
