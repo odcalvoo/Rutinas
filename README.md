@@ -32,6 +32,8 @@ Scripts para cálculos y análisis en Python.
 - **Structural_Engineering/**: Scripts relacionados con ingeniería estructural.
   - **structural_damage_classifier_with_plot2.py**: Clasificador de daños en vigas de concreto usando árboles de decisión con visualización.
   - **CombinedFootML.py**: Clasificador de zapatas combinadas, usando Machine Learning (árboles de decision en este caso)
+  - **PushOverML.py**: Apliación de redes neuronales al análisis PushOver
+
 
 ## VBA
 Contiene macros para automatizar tareas en Excel.
