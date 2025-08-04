@@ -33,6 +33,7 @@ Scripts para cálculos y análisis en Python.
   - **structural_damage_classifier_with_plot2.py**: Clasificador de daños en vigas de concreto usando árboles de decisión con visualización.
   - **CombinedFootML.py**: Clasificador de zapatas combinadas, usando Machine Learning (árboles de decision en este caso)
   - **PushOverML.py**: Apliación de redes neuronales al análisis PushOver
+  - **HisteresisNL.py**: Apliación de redes neuronales al ciclo de histéresis para predecir daños
 
 
 ## VBA
