@@ -22,6 +22,7 @@ Scripts para cálculos numéricos y problemas matemáticos.
 - **Project_Euler/prb007.m**: Hallar el 10001° numero primo
 - **Project_Euler/prb008.m**: Hallar el maypr productp de 5 numeros
 - **Project_Euler/prb009.m**: Producto de triplete pitagórico con suma 1000
+- **Project_Euler/prb010.m**: Suma de todos los primos menores a 2 millones.
 
 -  **Data_and_ML/**: Scripts para análisis de datos y aprendizaje automático.
 -  **kNNClasif.m**: Clasificador k-NN para asignar clases (0 o 1) basado en k vecinos más cercanos.
